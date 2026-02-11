@@ -20,3 +20,27 @@ To get started execute:
 2. `algokit init` - invoke this command inside a github codespace to launch an interactive wizard to guide you through the process of creating a new AlgoKit project
 
 Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
+
+---
+
+## **Localnet deployment and testing**
+
+#### Deployment on Localnet
+- returns Hello, how are you Nikhil?
+![Screenshot](./projects/blockchain_dev_assessment/screenshots/local-net/l1.png)
+
+---
+#### Added the deployment on Lora explorer running locally
+
+![explorer](./projects/blockchain_dev_assessment/screenshots/local-net/l2.png)
+![explorer](./projects/blockchain_dev_assessment/screenshots/local-net/l3.png)
+![explorer](./projects/blockchain_dev_assessment/screenshots/local-net/l4.png)
+![explorer](./projects/blockchain_dev_assessment/screenshots/local-net/l5.png)
+
+---
+
+#### Testing with Name 'Praveen'
+![testing](./projects/blockchain_dev_assessment/screenshots/local-net/l6.png)
+![testing](./projects/blockchain_dev_assessment/screenshots/local-net/l7.png)
+![testing](./projects/blockchain_dev_assessment/screenshots/local-net/l8.png)
+
