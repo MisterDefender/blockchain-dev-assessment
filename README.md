@@ -44,3 +44,31 @@ Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
 ![testing](./projects/blockchain_dev_assessment/screenshots/local-net/l7.png)
 ![testing](./projects/blockchain_dev_assessment/screenshots/local-net/l8.png)
 
+## **Public Testnet deployment and testing [*BONUS work*]**
+
+#### Account setup for testnet account
+![account-setup](./projects/blockchain_dev_assessment/screenshots/testnet/t1.png)
+
+----
+
+#### Deployment on testnet
+- check logs
+![deployement](./projects/blockchain_dev_assessment/screenshots/testnet/t2.png)
+
+---
+
+#### Adding the deployment to App Lab in Lora
+![lora-app-labs](./projects/blockchain_dev_assessment/screenshots/testnet/t3.png)
+![ora-app-labs](./projects/blockchain_dev_assessment/screenshots/testnet/t4.png)
+
+---
+
+## Deployment Details on LocalNet:-
+- **Application ID**: 755379851
+- **Application Name**: HelloWorld
+- **Creator**: NIKMEESMARH5CI6T4DZZCOSU6WRJIYHKV5WULA542VSLZUJ6GG4INJWNRA
+- **Account**: PWNUMPCX2LK2GBXKJ24DY3EILYQ4HBLDIMA4OKOK2OWLOG5ABC7DAT3AYE
+- **State**: Box
+
+---
+
