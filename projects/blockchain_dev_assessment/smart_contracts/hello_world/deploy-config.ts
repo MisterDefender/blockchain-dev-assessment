@@ -23,11 +23,12 @@ export async function deploy() {
     })
   }
 
-  const method = 'hello'  
+  const method = 'hello'
+  const nameToGreet = 'Nikhil'
   const response = await appClient.send.hello({
-    args: { name: 'world' },
+    args: { name: nameToGreet },
   })
   console.log(
-    `Called ${method} on ${appClient.appClient.appName} (${appClient.appClient.appId}) with name = world, received: ${response.return}`,
+    `Called ${method} on ${appClient.appClient.appName} (${appClient.appClient.appId}) with name = ${nameToGreet}, received: ${response.return}`,
   )
 }
