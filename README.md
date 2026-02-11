@@ -61,6 +61,8 @@ Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
 ![lora-app-labs](./projects/blockchain_dev_assessment/screenshots/testnet/t3.png)
 ![ora-app-labs](./projects/blockchain_dev_assessment/screenshots/testnet/t4.png)
 
+##### **Testnet Transaction on Lora explorer:** [check here](https://lora.algokit.io/testnet/transaction/6D2VI7QXA5CEQOK3QRNQLZU45I2BCLXWPSK7QWN5NSSQV2OPCZRQ)
+
 ---
 
 ## Deployment Details on LocalNet:-
